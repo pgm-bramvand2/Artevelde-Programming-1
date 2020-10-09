@@ -17,3 +17,5 @@ lalalalalalaalal
 =======
 Programming 1 for repository example in class on 9 - 10
 >>>>>>> 6f83b8ea342ae6ac865aa156209f4fea090b6da8
+
+Khomchan Phothichak was here :thumbsup:
