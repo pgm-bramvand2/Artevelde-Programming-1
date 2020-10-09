@@ -11,3 +11,5 @@ GitHub Tutorial - Aanmaak van een online repository
 
 **GRADUAAT PROGRAMMEREN ARTEVELDEHOGESCHOOL**
 We :heart: **Programming** :thumbsup: **Graphics** make **Cool** :poop:
+
+lalalalalalaalal
