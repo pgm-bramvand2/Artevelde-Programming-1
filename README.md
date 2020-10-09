@@ -1,4 +1,5 @@
 # Artevelde-Programming-1
+<<<<<<< HEAD
 
 GitHub Tutorial - Aanmaak van een online repository
 
@@ -13,3 +14,6 @@ GitHub Tutorial - Aanmaak van een online repository
 We :heart: **Programming** :thumbsup: **Graphics** make **Cool** :poop:
 
 lalalalalalaalal
+=======
+Programming 1 for repository example in class on 9 - 10
+>>>>>>> 6f83b8ea342ae6ac865aa156209f4fea090b6da8
